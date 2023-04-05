@@ -1,0 +1,41 @@
+emily@DESKTOP-2UBMNI7 MINGW64 /
+$ ping www.microsoft.com
+
+Pinging e13678.dscb.akamaiedge.net [23.45.229.117] with 32 bytes of data:
+Reply from 23.45.229.117: bytes=32 time=14ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=10ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=9ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=11ms TTL=58
+
+Ping statistics for 23.45.229.117:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 14ms, Average = 11ms
+
+emily@DESKTOP-2UBMNI7 MINGW64 /
+$ ping www.microsoft.com
+
+Pinging e13678.dscb.akamaiedge.net [23.45.229.117] with 32 bytes of data:
+Reply from 23.45.229.117: bytes=32 time=9ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=8ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=14ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=30ms TTL=58
+
+Ping statistics for 23.45.229.117:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 30ms, Average = 15ms
+
+emily@DESKTOP-2UBMNI7 MINGW64 /
+$ ping www.microsoft.com
+
+Pinging e13678.dscb.akamaiedge.net [23.45.229.117] with 32 bytes of data:
+Reply from 23.45.229.117: bytes=32 time=14ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=9ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=6ms TTL=58
+Reply from 23.45.229.117: bytes=32 time=10ms TTL=58
+
+Ping statistics for 23.45.229.117:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 14ms, Average = 9ms
