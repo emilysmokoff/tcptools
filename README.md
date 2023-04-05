@@ -5,10 +5,12 @@
 * **Ping One:** *min:* 9ms *avg:* 19ms *max:* 31ms *stddev:* I have a windows and this field doesn't populate
 * **Ping Two:** *min:* 9ms *avg:*  11ms *max:* 17ms *stddev:* I have a windows and this field doesn't populate
 * **Ping Three:** *min:* 9ms *avg:* 14ms *max:* 28ms *stddev:* I have a windows and this field doesn't populate
+
 **www.google.com**
 * **Ping One:** *min:* 8ms *avg:* 8ms *max:* 9ms *stddev:*
 * **Ping Two:** *min:* 8ms *avg:* 8ms *max:* 10ms *stddev:*
 * **Ping Three:** *min:* 7ms *avg:* 26ms *max:* 65ms *stddev:*
+
 **www.microsoft.com**
 * **Ping One:** *min:* *avg:* *max:* *stddev:*
 * **Ping Two:** *min:* *avg:* *max:* *stddev:*
