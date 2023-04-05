@@ -31,12 +31,18 @@
 
 **www.google.com:**
 * 142.250.68.196
+
+**www.microsoft.com:**
+* 23.45.229.117
 ### How many hops were needed to reach the target?
 **www.amazon.com:**
 * 17, and hops 11-15 requests timed out.
 
 **www.google.com:**
 * 11
+
+**www.microsoft.com:**
+* 8
 ### Can you identify your ISP from the intermediate server DNS names?
 * Yes I can tell my ISP from the intermediate server DNS names, because they show they are hopping through comcast.net in the intermediate server DNS names for all three targets.
 ### Identify the "class" of IP address for each major step in the trip
@@ -49,3 +55,7 @@
 * Step 1: Class C
 * Steps 2-8: Class A
 * Steps 9-11: Class B
+
+**www.microsoft.com**
+* Step 1: Class C
+* Step 2-8: Class A
