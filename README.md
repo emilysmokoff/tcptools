@@ -9,6 +9,7 @@ www.amazon.com:
 * www.amazon.com: No packets lost on any of the three.
 * 
 ### Did the IP address change for a given website between pings?
+* www.amazon.com: Yes the IP address changed between pings 2 and 3, but was the same for ping one. For pings one and two it was 18.65.233.187, for ping three it was 18.172.169.208.
 ## Using "tracert"
 ### What was the target server's IP address?
 ### How many hops were needed to reach the target?
