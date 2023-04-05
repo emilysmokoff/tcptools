@@ -3,7 +3,7 @@
 ### What were the min/avg/max/stddev statistics for each?
 www.amazon.com:
 * Ping One: 
-** min: 9ms 
+''' min: 9ms 
 ** avg: 19ms 
 ** max: 31ms 
 ** stddev: 
