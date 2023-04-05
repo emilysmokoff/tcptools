@@ -28,13 +28,24 @@
 ### What was the target server's IP address?
 **www.amazon.com:**
 * 18.172.169.208
+
+**www.google.com:**
+* 142.250.68.196
 ### How many hops were needed to reach the target?
 **www.amazon.com:**
 * 17, and hops 11-15 requests timed out.
+
+**www.google.com:**
+* 11
 ### Can you identify your ISP from the intermediate server DNS names?
-* Yes I can tell my ISP from the intermediate server DNS names, because they show they are hopping through comcast.net in the intermediate server DNS names.
+* Yes I can tell my ISP from the intermediate server DNS names, because they show they are hopping through comcast.net in the intermediate server DNS names for all three targets.
 ### Identify the "class" of IP address for each major step in the trip
 **www.amazon.com:**
 * Step 1: Class C
-* Step 2-10 and 16-17: Class A
-* Step 11-15: Timed out, no IP adress
+* Steps 2-10 and 16-17: Class A
+* Steps 11-15: Timed out, no IP adress
+
+**www.google.com:**
+* Step 1: Class C
+* Steps 2-8: Class A
+* Steps 9-11: Class B
